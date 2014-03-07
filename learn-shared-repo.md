@@ -6,8 +6,9 @@
 
 ### 变基
 	
-> 1. git fetch origin
-> 2. git rebase origin/master
+> * git fetch origin
+> * git rebase origin/master
 > > **Tip:** if conflicts, git rebase --continue
-> 3. git push
+
+> * git push
 
