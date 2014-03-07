@@ -1,3 +1,3 @@
-* > Learn Github
+* Learn Github
 *
-* > For Ndi
+* For Ndi
