@@ -1,1 +1,1 @@
-## Learn Tag
+## Learn Tag1. 创建里程碑    > git tag -m "tag on new commit" mytag22. 查看新建立的里程碑    > git tag -l -n13. 推送里程碑    > git push origin refs/tags/*4. 删除里程碑    > git tag -d mytag2    > git push origin :mytag2
